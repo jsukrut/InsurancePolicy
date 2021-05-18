@@ -1,0 +1,7 @@
+## insurancePolicy
+
+insurancePolicy
+
+#### License
+
+MIT
